@@ -28,8 +28,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/omerkufrevi/omerkufrevi/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h1 align="left">Me contacter</h1>
